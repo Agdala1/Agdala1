@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tuusuario">
-    <img title="Agdala Hernandez" src="https://img.shields.io/badge/Author-[Tu Nombre]-blue?style=for-the-badge&logo=github">
+    <img title="Author" src="https://img.shields.io/badge/Author-[Agdala Hdez]-blue?style=for-the-badge&logo=github">
   </a>
   <a href="">
     <img title="Versión" src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge&logo=">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:mastersv@gmail.com">
     <img title="Correo" src="https://img.shields.io/badge/Correo-tuemail@example.com-blueviolet?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://t.me/tucanal">
