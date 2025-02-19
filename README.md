@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tuusuario">
-    <img title="Author" src="https://img.shields.io/badge/Author-[Agdala Hdez]-blue?style=for-the-badge&logo=github">
+    <img title="Autor" src="https://img.shields.io/badge/Author-[Tu Nombre]-blue?style=for-the-badge&logo=github">
   </a>
   <a href="">
     <img title="Versión" src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge&logo=">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mastersv@gmail.com">
+  <a href="mailto:tuemail@example.com">
     <img title="Correo" src="https://img.shields.io/badge/Correo-tuemail@example.com-blueviolet?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://t.me/tucanal">
@@ -32,7 +32,7 @@
 
 ## 🚀 Sobre mí
 
-¡Hola! Soy **[Agdala Hdez]**, un apasionado de la tecnología con experiencia en el desarrollo y mantenimiento de sistemas operativos, especialmente en la distribución de Linux llamada **Linux Sv**. Además, me especializo en el mantenimiento de computadoras con **Windows**, **Mac** y **Linux**, así como en la instalación de software de seguridad.
+¡Hola! Soy **[Tu Nombre]**, un apasionado de la tecnología con experiencia en el desarrollo y mantenimiento de sistemas operativos, especialmente en la distribución de Linux llamada **Linux Sv**. Además, me especializo en el mantenimiento de computadoras con **Windows**, **Mac** y **Linux**, así como en la instalación de software de seguridad.
 
 - 🐧 **Linux Sv**: Trabajo en el desarrollo y mantenimiento de esta distribución de Linux, optimizada para usuarios que buscan rendimiento y seguridad.
 - 💻 **Mantenimiento de Computadoras**: Reparación, optimización y actualización de sistemas operativos (Windows, Mac, Linux).
@@ -42,6 +42,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
+### Sistemas Operativos y Mantenimiento
 | Habilidad              | Nivel        |
 |------------------------|--------------|
 | **Linux Sv**           | ⭐⭐⭐⭐⭐       |
@@ -51,6 +52,17 @@
 | **Seguridad Informática** | ⭐⭐⭐⭐      |
 | **Bash Scripting**     | ⭐⭐⭐          |
 | **Redes**              | ⭐⭐⭐          |
+
+### Lenguajes de Programación
+| Lenguaje              | Nivel        |
+|-----------------------|--------------|
+| **Python**            | ⭐⭐⭐⭐⭐       |
+| **HTML**              | ⭐⭐⭐⭐⭐       |
+| **CSS**               | ⭐⭐⭐⭐         |
+| **C++**               | ⭐⭐⭐⭐         |
+| **Ruby**              | ⭐⭐⭐          |
+| **PHP**               | ⭐⭐⭐          |
+| **Java**              | ⭐⭐⭐⭐         |
 
 ---
 
