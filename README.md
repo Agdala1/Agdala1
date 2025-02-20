@@ -159,9 +159,8 @@ Configuración de software de seguridad para proteger sistemas y datos.
 ## 📫 Contáctame
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en un proyecto!  
-📧 **Email**: [tuemail@example.com](mailto:tuemail@example.com)  
-🐦 **GitHub**: [@tuusuario](https://github.com/tuusuario)  
-💼 **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tuperfil)
+📧 **Email**: [tuemail@example.com](mailto:master.hdez@gmail.com)  
+🐦 **GitHub**: [@tuusuario](https://github.com/Agdala1)  
 
 ---
 
