@@ -159,8 +159,8 @@ Configuración de software de seguridad para proteger sistemas y datos.
 ## 📫 Contáctame
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en un proyecto!  
-📧 **Email**: [tuemail@example.com](mailto:master.hdez@gmail.com)  
-🐦 **GitHub**: [@tuusuario](https://github.com/Agdala1)  
+📧 **Email**: [master.hdez@gmail.com](mailto:master.hdez@gmail.com)  
+🐦 **GitHub**: [@Agdala1](https://github.com/Agdala1)  
 
 ---
 
