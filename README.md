@@ -104,6 +104,19 @@
 - programacion en Html y css
 - programacion en php
 
+### **Estudios Diseño Grafico** 
+- Diseñador grafico en photoshop.
+- Diseño y vectorizacion CMYK Illustrator
+- Diseño y vectorizacion en corel draw
+- Diseño y maquetacion CMYK.
+
+### **Cursos de Red y Seguridad Informatica** 
+- Instalacion y mantenimientos de redes.
+- Mapeo y estructurado de redes.
+- Seguridad de redes
+- Programacion sisco
+- Vulneracion y seguridad de redes avanzadas.
+
 ### **Tecnico en Mantenimiente de Computadoras** 
 - Mantenimiento Preventivo
 - Mantenimiento Correctivo
