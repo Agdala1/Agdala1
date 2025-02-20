@@ -75,22 +75,46 @@
 - Soporte técnico a usuarios y comunidad.
 
 ### **Técnico en Mantenimiento de Computadoras**
-**Junio 2018 - Diciembre 2019**  
+**Junio 2010 - Diciembre 2012**  
 - Reparación y mantenimiento de computadoras con sistemas operativos **Windows**, **Mac** y **Linux**.
 - Instalación y configuración de software de seguridad.
 - Optimización de sistemas para mejorar el rendimiento.
 
+### **Técnico en Reparacion de Telefonos**
+**Dicienbre 2012 - Diciembre 2015** 
+- Reparacion de Smartphones
+- Reparacion de Iphones
+- Reparacion de Tablets y ipads
+- Microsoldadura
+
+### **Profesor de Informatica y Electronica**
+**Febrero 2015 - Noviembre 2019** 
+- Clases de informatica desde preparatoria a Segundo Año de bachillerato
+- Clases de electronica a bachillerato opcion electronica.
+- Clases de robotica y arduino
 ---
 
 ## 🎓 Educación
 
-### **Licenciatura en Informática** - Universidad XYZ
-**2014 - 2018**  
+### **Ingenieria en sistemas** 
 - Enfoque en sistemas operativos y seguridad informática.
+- Programacion en lenguaje c++
+- Programacion en Python
+- Programacion en java
+- programacion en Html y css
+- programacion en php
 
-### **Curso de Seguridad Informática** - Plataforma ABC
-**2019**  
+### **Tecnico en Mantenimiente de Computadoras** 
+- Mantenimiento Preventivo
+- Mantenimiento Correctivo
+- Instalacion de sistemas Windows Mac y Linux
 - Aprendizaje de técnicas avanzadas de seguridad y protección de datos.
+
+### **Tecnico en reparacion de Smartphones y tablets**
+- Reparacion de Smartphones
+- Reparacion de Iphones
+- Reparacion de Tablets y ipads
+- Microsoldadura
 
 ---
 
