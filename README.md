@@ -135,7 +135,7 @@
 
 ### **Linux Sv**
 Desarrollo y mantenimiento de una distribución de Linux optimizada para usuarios que buscan rendimiento y seguridad.  
-[🔗 Ver más](#)
+[🔗 Ver más](https://github.com/linuxsv)
 
 ### **Mantenimiento de Computadoras**
 Servicio de reparación, optimización y actualización de sistemas operativos (Windows, Mac, Linux).  
