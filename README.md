@@ -18,12 +18,12 @@
 
 <p align="center">
   <a href="mailto:master.hdez@gmail.com">
-    <img title="Correo" src="https://img.shields.io/badge/Correo-tuemail@example.com-blueviolet?style=for-the-badge&logo=gmail">
+    <img title="Correo" src="https://img.shields.io/badge/Correo-master.hdez@gmail.com-blueviolet?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://t.me/tucanal">
+  <a href="https://t.me/servitechsv">
     <img title="Chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://twitter.com/tuusuario">
+  <a href="https://twitter.com/AgdalaHdez">
     <img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter">
   </a>
 </p>
