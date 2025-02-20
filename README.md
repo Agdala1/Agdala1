@@ -11,8 +11,8 @@
   <a href="">
     <img title="Sistema" src="https://img.shields.io/badge/Supported%20OS-Linux%20|%20Windows%20|%20Mac-orange?style=for-the-badge&logo=linux">
   </a>
-  <a href="[https://sites.google.com/view/donacionesbtc/inicio](https://sites.google.com/view/donacionesbtc/inicio)">
-    <img title="Donar" src="https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge&logo=Bitcoin">
+  <a href="https://sites.google.com/view/donacionesbtc/inicio">
+    <img title="Donar" src="https://img.shields.io/badge/Donate-Bitcoin-green.svg?style=for-the-badge&logo=Bitcoin">
   </a>
 </p>
 
